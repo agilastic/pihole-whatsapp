@@ -1,9 +1,9 @@
 # Blocklist for Whatsapp
 
-0.0.0.0 whatsapp.com
-whatsapp.com
-0.0.0.0 www.whatsapp.com
-www.whatsapp.com
+(^|\.)whatsapp\.net$
+(^|\.)whatsapp\.com$
+(^|\.)fbcdn\.net$
+
 #0.0.0.0 web.whatsapp.com
 0.0.0.0 w1.web.whatsapp.com
 0.0.0.0 w2.web.whatsapp.com
